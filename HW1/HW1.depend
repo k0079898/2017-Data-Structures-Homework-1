@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1509186759 source:c:\users\user\desktop\ds_hw1\code.cpp
+	<iostream>
+	"function.h"
+	<cctype>
+
+1507412918 c:\users\user\desktop\ds_hw1\function.h
+	<string>
+
+1507412920 source:c:\users\user\desktop\ds_hw1\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"code.cpp"
+
+1509186759 c:\users\user\desktop\ds_hw1\code.cpp
+	<iostream>
+	"function.h"
+	<cctype>
+
